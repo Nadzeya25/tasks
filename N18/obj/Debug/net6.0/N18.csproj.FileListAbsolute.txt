@@ -1,0 +1,15 @@
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.csproj.AssemblyReference.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.AssemblyInfoInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.AssemblyInfo.cs
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.csproj.CoreCompileInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\bin\Debug\net6.0\N18.exe
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\bin\Debug\net6.0\N18.deps.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\bin\Debug\net6.0\N18.runtimeconfig.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\bin\Debug\net6.0\N18.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\bin\Debug\net6.0\N18.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\refint\N18.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\N18.genruntimeconfig.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\tasks\N18\obj\Debug\net6.0\ref\N18.dll
